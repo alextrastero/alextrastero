@@ -1,16 +1,37 @@
-### Hi there 👋
+```
+      ___                                            ___           ___           ___           ___     
+     /__/\        ___                    ___        /__/\         /  /\         /  /\         /  /\    
+     \  \:\      /  /\                  /  /\       \  \:\       /  /:/_       /  /::\       /  /:/_   
+      \__\:\    /  /:/                 /  /:/        \__\:\     /  /:/ /\     /  /:/\:\     /  /:/ /\  
+  ___ /  /::\  /__/::\                /  /:/     ___ /  /::\   /  /:/ /:/_   /  /:/~/:/    /  /:/ /:/_ 
+ /__/\  /:/\:\ \__\/\:\__            /  /::\    /__/\  /:/\:\ /__/:/ /:/ /\ /__/:/ /:/___ /__/:/ /:/ /\
+ \  \:\/:/__\/    \  \:\/\          /__/:/\:\   \  \:\/:/__\/ \  \:\/:/ /:/ \  \:\/:::::/ \  \:\/:/ /:/
+  \  \::/          \__\::/          \__\/  \:\   \  \::/       \  \::/ /:/   \  \::/~~~~   \  \::/ /:/ 
+   \  \:\          /__/:/                \  \:\   \  \:\        \  \:\/:/     \  \:\        \  \:\/:/  
+    \  \:\         \__\/                  \__\/    \  \:\        \  \::/       \  \:\        \  \::/   
+     \__\/                                          \__\/         \__\/         \__\/         \__\/    
+```
 
-<!--
-**alextrastero/alextrastero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex, web dev and full time geek, I love learning new web tips and tricks and helping others do the same.
 
-Here are some ideas to get you started:
+I'm currently working for Picstars (CH) from my hometown in southern Spain.
+I'm passionate about all things that can be tweaked, I probably update `~/.config` every single day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a list of emoji's:
+- 🔭 
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫 
+- 😄 
+
+And some personal pronouns:
+- me
+- you
+- him
+- her
+- [it](https://www.imdb.com/title/tt1396484/)
+
+
+All my handles are `alextrastero` so it won't be hard to contact me should you want to.
